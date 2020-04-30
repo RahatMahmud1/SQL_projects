@@ -1,2 +1,2 @@
-# SQL_projects
-Data Query Projects using SQL
+# SQLite_projects
+Data Query Projects using SQLite
